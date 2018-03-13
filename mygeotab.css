@@ -1,0 +1,17 @@
+body{
+	background: lightgrey;
+}
+
+
+
+.container {
+	height: 80%;
+	padding: 10px;
+}
+
+
+
+.hidden {
+	display: none;
+}
+
